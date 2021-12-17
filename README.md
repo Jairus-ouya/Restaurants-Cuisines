@@ -53,7 +53,7 @@
     
     <footer>
         
-        <p>Name: SAMMY OBANDE Reg.No. ENC222-0147/2017
+        <p>Name: Ouya Jairo
         </p>
     </footer>
 
